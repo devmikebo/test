@@ -21,3 +21,5 @@ user1
   new comment
 testUser
 	new comment
+testUser
+	new comment
