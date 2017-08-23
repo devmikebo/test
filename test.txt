@@ -25,3 +25,5 @@ testUser
 	new comment
 Michał
 	new comment
+Michał
+	new comment
