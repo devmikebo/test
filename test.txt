@@ -35,3 +35,5 @@ testUser
 	new comment
 testUser
 	new comment
+mi--ch--al
+	testowy komentarz
