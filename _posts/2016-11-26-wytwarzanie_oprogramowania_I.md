@@ -105,4 +105,12 @@ dsfdsfsd
 
 ---
 <p />
-begin-**user6**-sdfsdfsd-2018-11-04 12:14 UTC
+
+**user6**
+
+sdfsdfsd
+
+2018-11-04 12:14 UTC
+
+---
+<p />
